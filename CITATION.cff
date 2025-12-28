@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+title: Affine Photogrammetry Transformation in MATLAB
+message: >
+  If you use this code in your research, please cite it as follows.
+authors:
+  - family-names: Rezaeipour
+    given-names: Alireza
+version: 1.0.0
+license: MIT
+repository-code: https://github.com/AlirezaRezaeipour/affine-photogrammetry-matlab
